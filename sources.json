@@ -1,5 +1,5 @@
 {
-  "latest": "nightly-2026-10-14-38a3029",
+  "latest": "nightly-2026-10-15-38e6c42",
   "releases": {
     "nightly-2026-08-06-61bbb59": {
       "compilerCommit": "61bbb59bd8d852c35f3efdb32b44a04fc95d48ab",
@@ -1540,6 +1540,34 @@
         }
       },
       "tag": "nightly-2026-10-14-38a3029"
+    },
+    "nightly-2026-10-15-38e6c42": {
+      "compilerCommit": "38e6c42c889cc7ffd97beea9199186790cc848f5",
+      "compilerVersion": "nightly-2026-10-15-38e6c42",
+      "publishedAt": "2026-10-15T14:43:11Z",
+      "systems": {
+        "aarch64-darwin": {
+          "asset": "roc_nightly-macos_apple_silicon-2026-10-15-38e6c42.tar.gz",
+          "sha256": "sha256-Fcwq7w44F2HZY079ZJE+6x0ZwzBuq0+nFEW+krEj0C8=",
+          "url": "https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-15-38e6c42/roc_nightly-macos_apple_silicon-2026-10-15-38e6c42.tar.gz"
+        },
+        "aarch64-linux": {
+          "asset": "roc_nightly-linux_arm64-2026-10-15-38e6c42.tar.gz",
+          "sha256": "sha256-XVakWv1vseyjlF6qD+oSBHlAJoDx9r5U9JbqcH9eOS8=",
+          "url": "https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-15-38e6c42/roc_nightly-linux_arm64-2026-10-15-38e6c42.tar.gz"
+        },
+        "x86_64-darwin": {
+          "asset": "roc_nightly-macos_x86_64-2026-10-15-38e6c42.tar.gz",
+          "sha256": "sha256-9blvnEhkEXRzjsHajXagX5J5EX8LvC+jJctcYrRjRdQ=",
+          "url": "https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-15-38e6c42/roc_nightly-macos_x86_64-2026-10-15-38e6c42.tar.gz"
+        },
+        "x86_64-linux": {
+          "asset": "roc_nightly-linux_x86_64-2026-10-15-38e6c42.tar.gz",
+          "sha256": "sha256-np3A/ruOfCjagghsXVgYNU7C98iLEriymbOmA2GH25w=",
+          "url": "https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-15-38e6c42/roc_nightly-linux_x86_64-2026-10-15-38e6c42.tar.gz"
+        }
+      },
+      "tag": "nightly-2026-10-15-38e6c42"
     },
     "nightly-2026-August-01-1c1cecc": {
       "compilerCommit": "1c1ceccf672248bcd367cf3b21f4daadc0afd318",
